@@ -1,0 +1,3 @@
+index.html is the main page, just an outline of the project
+generic.html is the inner page called generic, this should be a high level non technical explanation of the project
+elements.html is the subpage called elements, this should be a technical page with configs and stuff
